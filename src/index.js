@@ -27,10 +27,3 @@ export class Team {
         return result;
     }
 }
-
-// const amber = new Character("Amber");
-// const alex = new Character("Alex");
-// const love = new Character("Love");
-// const team = new Team ();
-// team.addAll(alex, love, amber)
-// console.log(team.toArray())
